@@ -1,0 +1,13 @@
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\bin\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.exe
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\bin\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.deps.json
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\bin\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.runtimeconfig.json
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\bin\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.runtimeconfig.dev.json
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\bin\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.dll
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\bin\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\obj\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.csprojAssemblyReference.cache
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\obj\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\obj\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\obj\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.AssemblyInfo.cs
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\obj\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.dll
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\obj\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula24-Sprint4-ObjetoComoArgumento\obj\Debug\netcoreapp3.1\Aula24-Sprint4-ObjetoComoArgumento.genruntimeconfig.cache
